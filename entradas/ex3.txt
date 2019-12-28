@@ -1,0 +1,30 @@
+ta Slide_Vazio
+at CompUel_25
+sh 400
+sw 500
+cf1 red
+cl1 black
+cf2 black
+cl2 white
+
+sec Secao_Slides_vazios_1
+
+sld Slide_Vazio_1
+dls
+sld Slide_Vazio_2
+dls
+sld Slide_Vazio_3
+dls
+
+sec Secao_Slides_vazios_2
+
+sld Slide_Vazio_1
+dls
+sld Slide_Vazio_2
+dls
+
+sec Secao_Slides_vazios_3
+
+sld Slide_Vazio_1
+dls
+

@@ -1,0 +1,12 @@
+ta Slide_com_apenas_uma_secao
+at CompUel_25
+sh 400
+sw 500
+cf1 purple
+cl1 black
+cf2 red
+cl2 blue
+
+sec Secao_Fastasma
+
+

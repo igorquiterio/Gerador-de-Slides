@@ -1,0 +1,34 @@
+sld Primeiro_Slide
+blc c Bloco_com_bolinhas_cores_padrao
+i primeiro item do bloco
+i colocar a palavra bola* no indice* remissivo
+clb
+blc C Outro_Bloco black white red yellow
+i este bloco usa cores* diferentes
+i ele tambem* usa bolinhas grandes
+i para usar quadradinhos
+i trocar C por q
+clb
+blc Q bloco_dos_quadrados
+i este bloco usa quadrados grandes
+clb
+blc q quadradinhos blue yellow black purple
+i este bloco usa quadrados pequenos
+clb
+dls
+sld Segundo_Slide
+blc c oi
+i tchau*
+clb
+dls
+
+sld terceiro_slide
+blc c bee black yellow yellow black
+i buzz buzz
+i buz
+i bus*
+clb
+blc q olha_quem_esta_aqui white black black green
+i bola* cores*
+clb
+dls

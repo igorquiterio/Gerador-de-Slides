@@ -1,0 +1,8 @@
+ta Cabecalho_sem_slide
+at CompUel_25
+sh 400
+sw 500
+cf1 blue
+cl1 yellow
+cf2 black
+cl2 grey
